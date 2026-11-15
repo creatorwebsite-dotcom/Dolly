@@ -1,0 +1,150 @@
+name: ELON CHACHA Automated 2-Hour Recruitment & The Hindu Sync
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  repository_dispatch:
+    types: [cron_2hr_live_sync]
+  workflow_dispatch:
+    inputs:
+      purge_oldest_2_days:
+        description: "Force delete oldest 2 days data from jobs_database.json?"
+        required: false
+        default: "false"
+      prune_days_count:
+        description: "Number of oldest days to prune when storage limit hits"
+        required: false
+        default: "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: elon-chacha-2hr-live-sync
+  cancel-in-progress: false
+
+jobs:
+  scrape-enrich-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    env:
+      PROJECT_REPO_NAME: "ELON-CHACHA"
+      PORTAL_BRAND_NAME: "SARKARI NAUKAR BANEGA"
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      FORCE_PURGE_OLDEST_2_DAYS: ${{ github.event.inputs.purge_oldest_2_days || 'false' }}
+      PRUNE_DAYS_COUNT: ${{ github.event.inputs.prune_days_count || '2' }}
+      TZ: "Asia/Kolkata"
+
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Auto-Ensure requirements.txt Exists Before Python Setup
+        run: |
+          if [ ! -f requirements.txt ]; then
+            printf "beautifulsoup4>=4.12.0\nlxml>=5.0.0\nrequests>=2.31.0\ncurl_cffi>=0.7.0\nurllib3>=2.0.0\nhtml5lib>=1.1\n" > requirements.txt
+          fi
+
+      - name: Set up Python 3.10 with Pip Cache
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install Complete Scraping, Parsing & AI Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run The Hindu 3-Day Broadsheet & Hinglish Vocab Bot
+        continue-on-error: true
+        run: |
+          if [ -f the_hindu_bot.py ]; then
+            python -m py_compile the_hindu_bot.py
+            python the_hindu_bot.py
+          else
+            echo "⚠️ the_hindu_bot.py not found in root, skipping step."
+          fi
+
+      - name: Verify Syntax & Run Multi-Agent Recruitment Scraper
+        continue-on-error: true
+        run: |
+          if [ -f multi_agent_scraper.py ]; then
+            python -m py_compile multi_agent_scraper.py
+            python multi_agent_scraper.py
+          else
+            echo "⚠️ multi_agent_scraper.py not found in root, skipping step."
+          fi
+
+      - name: Agentic Post-Processor (Broadsheet Firewall, Auto Date Badges & 2-Hr Sync Stamp)
+        run: |
+          python - << 'EOF'
+          import json, os, re
+          from datetime import datetime, timezone, timedelta
+
+          ist_tz = timezone(timedelta(hours=5, minutes=30))
+          now_ist = datetime.now(ist_tz)
+          stamp_ist = now_ist.strftime("%d %b %Y, %I:%M:%S %p IST")
+          today_date = now_ist.date()
+
+          # 1. Clean jobs_database.json & enforce Today Last Date / Extended tags
+          db_file = "jobs_database.json"
+          if os.path.exists(db_file):
+              try:
+                  with open(db_file, "r", encoding="utf-8") as f:
+                      raw = json.load(f)
+                  posts = raw if isinstance(raw, list) else raw.get("posts", [])
+                  clean_posts = []
+                  for p in posts:
+                      if not isinstance(p, dict):
+                          continue
+                      if p.get("isBroadsheet") or p.get("scope_lock") == "BROADSHEET_MODAL_ONLY":
+                          continue
+                      if "fullParagraphs" in p or "vocabHinglish4" in p:
+                          continue
+                      title = str(p.get("title") or "").strip()
+                      if not title or "thehindu.com" in str(p.get("url") or "").lower():
+                          continue
+                      p["last_verified_sync_ist"] = stamp_ist
+                      clean_posts.append(p)
+                  with open(db_file, "w", encoding="utf-8") as f:
+                      json.dump(clean_posts, f, ensure_ascii=False, indent=2)
+                  print(f"✅ Verified {len(clean_posts)} clean Sarkari posts in {db_file}")
+              except Exception as e:
+                  print(f"⚠️ Post-processor warning on {db_file}: {e}")
+
+          # 2. Stamp admin_boxes.json with live 2-hour sync metadata
+          boxes_file = "admin_boxes.json"
+          boxes_data = {}
+          if os.path.exists(boxes_file):
+              try:
+                  with open(boxes_file, "r", encoding="utf-8") as bf:
+                      boxes_data = json.load(bf)
+              except Exception:
+                  boxes_data = {}
+          boxes_data["portal_brand"] = "SARKARI NAUKAR BANEGA"
+          boxes_data["updated_at"] = stamp_ist
+          boxes_data["last_2hr_sync_ist"] = stamp_ist
+          boxes_data["last_trigger_source"] = os.environ.get("GITHUB_EVENT_NAME", "schedule")
+          with open(boxes_file, "w", encoding="utf-8") as bf:
+              json.dump(boxes_data, bf, ensure_ascii=False, indent=2)
+          print(f"✅ Stamped {boxes_file} at {stamp_ist}")
+          EOF
+
+      - name: Commit & Push Live Updated JSON Databases to Repository
+        run: |
+          git config --global user.name "Sarkari Naukar Banega Auto-Bot"
+          git config --global user.email "actions@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add -A
+          if ! git diff --staged --quiet; then
+            STAMP=$(TZ='Asia/Kolkata' date +'%d %b %Y, %I:%M %p IST')
+            git commit -m "⚡ Live Sync [$STAMP] — SARKARI NAUKAR BANEGA"
+            git push origin HEAD:main
+          else
+            echo "ℹ️ No new database changes to commit."
+          fi
