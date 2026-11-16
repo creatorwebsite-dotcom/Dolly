@@ -62,6 +62,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "SSC CPO 2026: Exam City Details Released, Check When Your Admit Card Will Be Available",
+      "description": "<p>Official notification for SSC CPO 2026: Exam City Details Released, Check When Your Admit Card Will Be Available. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "d792c7256103"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SSC Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Agniveer: Is India rethinking its short-term military recruitment scheme?",
+      "description": "<p>Official notification for Agniveer: Is India rethinking its short-term military recruitment scheme?. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "5d07f0b4a736"
+      },
+      "datePosted": "2026-11-16",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Agniveer: Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "👉 Full Details: https://jobkola.com/13215 🔥AIIMS Madurai Recruitment 2026",
       "description": "<p>Official notification for 👉 Full Details: https://jobkola.com/13215 🔥AIIMS Madurai Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1242,6 +1302,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "AP High Court Declares 'No Waiting List' Clause In Police Recruitment Arbitrary, Orders Filling Of Vacant ...",
+      "description": "<p>Official notification for AP High Court Declares 'No Waiting List' Clause In Police Recruitment Arbitrary, Orders Filling Of Vacant .... Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "02bed2f68dd2"
+      },
+      "datePosted": "2026-11-13",
+      "validThrough": "2026-12-16T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AP Recruitment Board",
+        "sameAs": "https://opportunities.rbi.org.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "EXIM Bank Law Officer Notification 2026 Out | Vacancy, Eligibility, Salary, Syllabus & Exam Pattern",
       "description": "<p>Official notification for EXIM Bank Law Officer Notification 2026 Out | Vacancy, Eligibility, Salary, Syllabus &amp; Exam Pattern. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2240,97 +2330,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Common Recruitment Process for RRBs (CRP-RRBs-XV) for Recruitment of Group \"A\"",
-      "description": "<p>Official notification for Common Recruitment Process for RRBs (CRP-RRBs-XV) for Recruitment of Group \"A\". Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2aa3fc81fa7c"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-15T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Common Recruitment Board",
-        "sameAs": "https://indianrailways.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "J&K Bank PO & Clerk Vacancy 2026 🔥 | तैयारी कैसे करें? | Best Mock Test कौन सा है? | Saurav Sir",
-      "description": "<p>Official notification for J&amp;K Bank PO &amp; Clerk Vacancy 2026 🔥 | तैयारी कैसे करें? | Best Mock Test कौन सा है? | Saurav Sir. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "51dcccddb147"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-15T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "J&K Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSSSC Lower PCS Inter Level Online Form 2026",
-      "description": "<p>Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UPSSSC Combined Lower Subordinate Services Main Recruitment Notification. Those candidates who are interested in this UPSSSC Combined Lower Subordinate Services Mains Examination Vacancy 2026 can Apply Online from 10/11/2026 to 01/12/2026 . Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "d492ad7567a0"
-      },
-      "datePosted": "2026-11-11",
-      "validThrough": "2026-12-08T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSSSC Lower PCS Inter Level",
-        "sameAs": "https://upsssc.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1784
     }
   ]
 }
