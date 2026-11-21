@@ -62,6 +62,66 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.",
+      "description": "<p>Official notification for Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "95a6fc0a6724"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Interior Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "CID Arrests Man For Impersonating Minister, Influencing SSC Recruitment",
+      "description": "<p>Official notification for CID Arrests Man For Impersonating Minister, Influencing SSC Recruitment. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "cb1312bc7899"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CID Recruitment Board",
+        "sameAs": "https://ssc.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "District Health Society, Thiruvarur Staff Nurse Offline Form 2026 (59 Vacancy)",
       "description": "<p>The District Health Society, Thiruvarur is filling Staff Nurse posts on a contractual, temporary basis under the NHM scheme in Thiruvarur district. The notice carries an application form for the post on its later pages.</p>",
       "identifier": {
@@ -1366,6 +1426,68 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "DHS Madurai Contractual / Temporary Staff Nurse Offline Form 2026 (62 Vacancy)",
+      "description": "<p>District Health Society - Madurai (DHS Madurai), Tamil Nadu, has invited applications for 62 posts of Contractual / Temporary Staff Nurse. Applications are to be sent offline and must reach the organisation by 4 December 2026.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c51882427e0a"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Madurai Contractual / Temporary Staff Nurse Offline Form",
+        "sameAs": "https://madurai.nic.in/notice_category/recruitment/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 62
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "DHS Mayiladuthurai Staff Nurse Offline Form 2026 (56 Vacancy)",
+      "description": "<p>The Mayiladuthurai DHS Staff Nurse recruitment 2026 fills 56 contract/temporary Staff Nurse posts in the CEmONC centres of Mayiladuthurai district under the District Health Society.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ee93c1d77a46"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Mayiladuthurai Staff Nurse Offline Form",
+        "sameAs": "https://mayiladuthurai.nic.in/notice_Category/recruitment/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 56
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Meghalaya Cabinet approves 6th Pay Commission, revises police recruitment rule",
       "description": "<p>Official notification for Meghalaya Cabinet approves 6th Pay Commission, revises police recruitment rule. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -1910,6 +2032,36 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Citizen Recruitment | Kolhapur Police",
+      "description": "<p>Official notification for Citizen Recruitment | Kolhapur Police. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ab33434c1afd"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Citizen Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "A Stepping Stone to the Global Stage... HUFS Holds World Bank Group Recruitment Session",
       "description": "<p>Official notification for A Stepping Stone to the Global Stage... HUFS Holds World Bank Group Recruitment Session. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2167,157 +2319,6 @@
         "@type": "Organization",
         "name": "NIA 111 DEO, ASI, Head Constable Offline Form",
         "sameAs": "https://nia.mha.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "RECPDCL Senior Consultant (Renewable Energy) Recruitment 2026 (1 Vacancy)",
-      "description": "<p>The Age limit for applicant will be up to 68 years as on last/closing date of application. i.e. on 24.11.2026.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "ba54b0425a7b"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-11-24T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "RECPDCL Senior Consultant (Renewable Energy)",
-        "sameAs": "https://www.recpdcl.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Police say a rise in attrition is to blame for their unmet recruitment target.",
-      "description": "<p>Official notification for Police say a rise in attrition is to blame for their unmet recruitment target.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "4226577faa4f"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Police Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Gujarat Police 3,000 Various Posts Online Form 2026",
-      "description": "<p>GPRB Quick Summary 2026 · 3,000 Posts COMPANY NAME Gujarat Police Recruitment Board POST NAME Police Constable, Motor Transport Supervisor and More QUALIFICATION 12TH VACANCY 3,000 Posts LAST DATE 16-12-2026</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "1a1525f9b933"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-16T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Gujarat Police 3,000 Various Posts",
-        "sameAs": "https://gprb.gujarat.gov.in/"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Gujarat",
-          "addressRegion": "Gujarat",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 3000
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "TS High Court Provisional Selection List 2026",
-      "description": "<p>Event Date Recruitment Notification Nos. 2/2026, 4/2026 and 5/2026 19-1-2026 Provisional Selection List - Junior Assistants (R.O.C. No. 2/2026) 19-11-2026 Provisional Selection List - Field Assistants (R.O.C. No. 4/2026) 19-11-2026 Provisional Selection List - Examiners (R.O.C. No. 5/2026) 19-11-2026</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8ef5cec6312e"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "TS High Court Provisional Selection List",
-        "sameAs": "https://tshc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Public Security Minister announces phased recruitment of 20,000 police personnel Full story on Newswire. Link in the comments.",
-      "description": "<p>Official notification for Public Security Minister announces phased recruitment of 20,000 police personnel Full story on Newswire. Link in the comments.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2dfabf4c9991"
-      },
-      "datePosted": "2026-11-18",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Public Recruitment Board",
-        "sameAs": "https://licindia.in"
       },
       "jobLocation": {
         "@type": "Place",
