@@ -62,6 +62,191 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "DHS Staff Nurse Offline Form 2026 (56 Vacancy)",
+      "description": "<p>This is a contract recruitment of Staff Nurses through District Health Society, Coimbatore, for Comprehensive Emergency Obstetric and Newborn Care (CEmONC) Institutions, including Special Newborn Care Units (SNCU).</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "66b3c9a0e1cf"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Staff Nurse Offline Form",
+        "sameAs": "https://coimbatore.nic.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 56
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "DHS Krishnagiri Staff Nurse Offline Form 2026 (73 Vacancy)",
+      "description": "<p>The official notification does not specify the application fee or the selection process.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0c9dd2603e4d"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Krishnagiri Staff Nurse Offline Form",
+        "sameAs": "https://krishnagiri.nic.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 73
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "District Health Society, Karur Staff Nurse Offline Form 2026 (21 Vacancy)",
+      "description": "<p>The official notification does not specify the application fee or the selection process.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "ec78f6b41ed3"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "District Health Society, Karur Staff Nurse Offline Form",
+        "sameAs": "https://nhm.tn.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 21
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Dharmapuri District Health Society Staff Nurse Offline Form 2026 (57 Vacancy)",
+      "description": "<p>This recruitment is for Contract / Temporary Staff Nurse posts at the maternity and newborn care centres of the Government Medical College Hospital and government hospitals in Dharmapuri district, filled through the District Health Society.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "f8563dfd2392"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Dharmapuri District Health Society Staff Nurse Offline Form",
+        "sameAs": "http://www.dharamapuri.nic.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 57
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Kanniyakumari District Health Society Staff Nurse Offline Form 2026 (29 Vacancy)",
+      "description": "<p>The District Health Society, Kanniyakumari District (National Health Mission - Tamil Nadu) invites applications for 29 Staff Nurse posts on a purely temporary contract basis at CEmONC centres, including SNCU and PICU. Completed applications go to the Executive Secretary at the District Health Office, Krishnankovil, Nagercoil, and must reach by 5 PM on 4 December 2026. The pay is Rs. 21,000 per month.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "aec920d43e8f"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Kanniyakumari District Health Society Staff Nurse Offline Form",
+        "sameAs": "https://kanniyakumari.nic.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 29
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "City Hall: Part-time police approved, school board vacancy a...",
+      "description": "<p>Official notification for City Hall: Part-time police approved, school board vacancy a.... Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "70179dd6bb0e"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "City Recruitment Board",
+        "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "NABARD JPA, SPA Online Form 2026 (24 Vacancy)",
       "description": "<p>The notice lists 24 vacancies in total: 21 Junior Project Associate posts (one in each of 21 states) and 3 Senior Project Associate posts at the Head Office, Mumbai. All 24 are shown under UR; the SC, ST, OBC and EWS columns are 0.</p>",
       "identifier": {
@@ -169,6 +354,36 @@
         "@type": "Organization",
         "name": "Railway Recruitment Board",
         "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "SBI Specialist Officer SCO Recruitment 2026",
+      "description": "<p>Official notification for SBI Specialist Officer SCO Recruitment 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "88a67d26080a"
+      },
+      "datePosted": "2026-11-20",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SBI Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
       },
       "jobLocation": {
         "@type": "Place",
@@ -741,6 +956,36 @@
         "@type": "Organization",
         "name": "Meghalaya Recruitment Board",
         "sameAs": "https://licindia.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "🚨 SBI Recruitment 2026 | 60 Specialist Cadre Officer Vacancies | Manager & Deputy Manager Jobs 🔥",
+      "description": "<p>Official notification for 🚨 SBI Recruitment 2026 | 60 Specialist Cadre Officer Vacancies | Manager &amp; Deputy Manager Jobs 🔥. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "d1688a57a6f2"
+      },
+      "datePosted": "2026-11-19",
+      "validThrough": "2026-12-21T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "🚨 Recruitment Board",
+        "sameAs": "https://sbi.co.in/web/careers"
       },
       "jobLocation": {
         "@type": "Place",
@@ -2081,250 +2326,6 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 35
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "AIIMS Mangalagiri Various Posts Online Form 2026 (26 Vacancy)",
-      "description": "<p>The notice says that no applications were received for these posts under Advertisement No. AIIMS/MG/Admin/Recruitment/03/Faculty/2026/01 dated 11.08.2026, so they have been re-advertised. Applications are invited from Indian / other citizens as permissible under the applicable Act / Rules.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "7103a3f49e34"
-      },
-      "datePosted": "2026-11-18",
-      "validThrough": "2026-12-31T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AIIMS Mangalagiri Various Posts",
-        "sameAs": "https://www.aiimsmangalagiri.edu.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 26
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "CRPF Various Posts Walk in Form 2026 (19 Vacancy)",
-      "description": "<p>The official notification does not specify the application fee.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e58d207ddb0e"
-      },
-      "datePosted": "2026-11-18",
-      "validThrough": "2026-11-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "CRPF Various Posts Walk in Form",
-        "sameAs": "https://rect.crpf.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 19
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Uttarakhand Police Constable Recruitment 2026 | UK Police Constable New Vacancy 2026 | Age, Syllabus",
-      "description": "<p>Official notification for Uttarakhand Police Constable Recruitment 2026 | UK Police Constable New Vacancy 2026 | Age, Syllabus. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "438b5e24c764"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Uttarakhand Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttarakhand",
-          "addressRegion": "Uttarakhand",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UKSSSC Police Constable Recruitment 2026: Notification Out for 1694 Vacancies, Check Eligibility and Apply Online",
-      "description": "<p>Official notification for UKSSSC Police Constable Recruitment 2026: Notification Out for 1694 Vacancies, Check Eligibility and Apply Online. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "9ecf5fddfb36"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UKSSSC Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttarakhand",
-          "addressRegion": "Uttarakhand",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1694
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Indian Bank Recruitment 2026: Notification Released for 5 Specialist Officer Vacancies in AI & Cyber Security",
-      "description": "<p>Official notification for Indian Bank Recruitment 2026: Notification Released for 5 Specialist Officer Vacancies in AI &amp; Cyber Security. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e2a6abacd289"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Indian Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Uttarakhand Police Constable Vacancy 2026 OUT | UK Police New Vacancy 2026 | Syllabus, Qualification",
-      "description": "<p>Official notification for Uttarakhand Police Constable Vacancy 2026 OUT | UK Police New Vacancy 2026 | Syllabus, Qualification. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "20b803cf8972"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Uttarakhand Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttarakhand",
-          "addressRegion": "Uttarakhand",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Axis Bank Deputy Manager Recruitment 2026 | Salary ₹6.8 LPA | Eligibility & Apply Online",
-      "description": "<p>Official notification for Axis Bank Deputy Manager Recruitment 2026 | Salary ₹6.8 LPA | Eligibility &amp; Apply Online. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "68565a34f151"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Axis Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UK Police Recruitment 2026-27 Notification Out, 1694 Vacancies (Constable, Fire, Forest Guard), Apply Online Dates",
-      "description": "<p>Official notification for UK Police Recruitment 2026-27 Notification Out, 1694 Vacancies (Constable, Fire, Forest Guard), Apply Online Dates. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a1df615d4ae9"
-      },
-      "datePosted": "2026-11-17",
-      "validThrough": "2026-12-17T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UK Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1694
     }
   ]
 }
