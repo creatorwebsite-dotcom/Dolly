@@ -62,6 +62,68 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "Goa Police Police Constable Offline Form 2026 (52 Vacancy)",
+      "description": "<p>The official notification also specifies the application submission location, seniority-based absorption process and mandatory basic training after appointment. Interested candidates should read the notification carefully before submitting their applications.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "60a578755fea"
+      },
+      "datePosted": "2026-11-23",
+      "validThrough": "2027-01-20T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Goa Police Police Constable Offline Form",
+        "sameAs": "https://citizen.goapolice.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Goa",
+          "addressRegion": "Goa",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 52
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "DHS Thoothukudi Staff Nurse Offline Form 2026 (21 Vacancy)",
+      "description": "<p>The District Health Society, Thoothukudi (National Health Mission – Tamil Nadu, Health and Family Welfare Department) invites applications for 21 Staff Nurse posts on contract basis. Filled applications with photocopies of the relevant documents must reach the District Health Officer/Executive Secretary, District Health Office, Mappillaiurani PHC Campus, Mappillaiurami, Thoothukudi – 628 002 on or before 04 December 2026, 5:00 PM.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "72e438ba2e26"
+      },
+      "datePosted": "2026-11-22",
+      "validThrough": "2026-12-04T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DHS Thoothukudi Staff Nurse Offline Form",
+        "sameAs": "https://nhm.tn.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 21
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.",
       "description": "<p>Official notification for Interior CS Onesimus Kipchumba Murkomen assures Kenyans that the upcoming police recruitment exercise will be free, fair and transparent.. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -180,6 +242,36 @@
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
       "totalJobOpenings": 60
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "RRB BIG UPDATE 😱 नया सिस्टम लागू! JE Vacancy में बदलाव | SSE Recruitment & Eligibility OUT",
+      "description": "<p>Official notification for RRB BIG UPDATE 😱 नया सिस्टम लागू! JE Vacancy में बदलाव | SSE Recruitment &amp; Eligibility OUT. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "c4aaa21f7ef5"
+      },
+      "datePosted": "2026-11-21",
+      "validThrough": "2026-12-22T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RRB Recruitment Board",
+        "sameAs": "https://indianrailways.gov.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
     },
     {
       "@context": "https://schema.org/",
@@ -2228,97 +2320,6 @@
         "@type": "Organization",
         "name": "Local Recruitment Board",
         "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Shocking details will emerge after PSC recruitment probe, says Chief Minister",
-      "description": "<p>Official notification for Shocking details will emerge after PSC recruitment probe, says Chief Minister. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "2de4a896be42"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-19T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Shocking Recruitment Board",
-        "sameAs": "https://ssc.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "MbPA Graduate Apprentice Offline Form 2026 (48 Vacancy)",
-      "description": "<p>The official notification does not specify an advertisement number or an application start date.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "e9f88b34c946"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-18T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MbPA Graduate Apprentice Offline Form",
-        "sameAs": "https://www.mumbaiport.gov.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 48
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "NIA 111 DEO, ASI, Head Constable Offline Form 2026",
-      "description": "<p>Candidates should download and read the NIA Jobs 2026 notification PDF carefully to check vacancy details, eligibility, age limit, and application instructions. The notification also includes important dates and selection process details. The direct download link is available in the Important Links section below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "a6552e9e16a2"
-      },
-      "datePosted": "2026-11-19",
-      "validThrough": "2026-12-20T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NIA 111 DEO, ASI, Head Constable Offline Form",
-        "sameAs": "https://nia.mha.gov.in/"
       },
       "jobLocation": {
         "@type": "Place",
