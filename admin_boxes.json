@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "23 Nov 2026, 07:45:54 AM IST",
-  "last_2hr_sync_ist": "23 Nov 2026, 07:45:54 AM IST",
-  "last_2hr_sync_iso": "2026-11-23T07:45:39+05:30",
+  "updated_at": "23 Nov 2026, 07:34:08 PM IST",
+  "last_2hr_sync_ist": "23 Nov 2026, 07:34:08 PM IST",
+  "last_2hr_sync_iso": "2026-11-23T19:33:53+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 9,
-  "unseen_auto_published_count": 994,
+  "pruned_posts_last_run": 12,
+  "unseen_auto_published_count": 1040,
   "category_counts": {
-    "latest_jobs": 250,
-    "results": 161,
-    "admit_cards": 232,
-    "answer_keys": 133,
-    "syllabus": 94,
-    "admissions": 124
+    "latest_jobs": 267,
+    "results": 166,
+    "admit_cards": 245,
+    "answer_keys": 137,
+    "syllabus": 96,
+    "admissions": 129
   },
   "trending_top_6": [
     {
@@ -22,6 +22,15 @@
       "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
       "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 145,
+      "active": true
+    },
+    {
+      "id": "68c2721048ef",
+      "title": "IBPS Clerk Prelims Result 2026",
+      "sub": "Result",
+      "url": "https://www.ibps.in/",
+      "details": "As of 23 November 2026, the official result link has not been independently confirmed as active. Candidates should visit the recruitment page regularly to check for the latest announcement.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -57,15 +66,6 @@
       "sub": "Result",
       "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
       "details": "The UP Police Constable Normalized Marks 2026 represent candidates' written examination scores after application of the Board's normalization procedure.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "de04fe4bc529",
-      "title": "SSC GD PET PST Admit Card 2026 Out",
-      "sub": "Admit Card",
-      "url": "https://ssccr.gov.in/admit-card/696529dfde07fd2f63e510d9",
-      "details": "The Staff Selection Commission (SSC) has released the SSC GD PET PST Admit Card 2026 on 12 November 2026. Candidates who qualified in the Computer-Based Examination can download their admit cards for the Physical Efficiency Test (PET) and Physical Standard Test (PST) from the official website. Candidates must log in using their registration number/roll number and date of birth or password to access the call letter.",
       "rushScore": 125,
       "active": true
     }
