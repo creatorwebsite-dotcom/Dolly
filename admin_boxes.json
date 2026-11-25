@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "25 Nov 2026, 03:36:45 AM IST",
-  "last_2hr_sync_ist": "25 Nov 2026, 03:36:45 AM IST",
-  "last_2hr_sync_iso": "2026-11-25T03:36:31+05:30",
+  "updated_at": "25 Nov 2026, 12:23:21 PM IST",
+  "last_2hr_sync_ist": "25 Nov 2026, 12:23:21 PM IST",
+  "last_2hr_sync_iso": "2026-11-25T12:23:05+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 68,
-  "unseen_auto_published_count": 1112,
+  "pruned_posts_last_run": 8,
+  "unseen_auto_published_count": 1155,
   "category_counts": {
-    "latest_jobs": 287,
-    "results": 169,
-    "admit_cards": 279,
-    "answer_keys": 133,
-    "syllabus": 106,
-    "admissions": 138
+    "latest_jobs": 303,
+    "results": 178,
+    "admit_cards": 291,
+    "answer_keys": 135,
+    "syllabus": 107,
+    "admissions": 141
   },
   "trending_top_6": [
     {
@@ -22,6 +22,24 @@
       "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/RRB-NTPC-UG-2026-RRB-Zone-Wise-Vacancy-Details.pdf",
       "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fee Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 145,
+      "active": true
+    },
+    {
+      "id": "3d3fde92a0d1",
+      "title": "UPSSSC JE Online Form (1156 Posts)",
+      "sub": "Today Last Date",
+      "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/ViewPdf-2.pdf",
+      "details": "Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 132,
+      "active": true
+    },
+    {
+      "id": "3854fbbc6daa",
+      "title": "UPSSSC Junior Engineer JE (Mechanical) Online Form 2026 (1156 Posts) – Last Date Today",
+      "sub": "Today Last Date",
+      "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/ViewPdf-2.pdf",
+      "details": "Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 132,
       "active": true
     },
     {
@@ -48,24 +66,6 @@
       "sub": "Result",
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
       "details": "The CEN 09/2025 notification covers 22,195 vacancies in Level-1 (Group D) posts. The basic eligibility details are given below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "3a99fe53e116",
-      "title": "RRB 1,688 NTPC UG Online Form 2026",
-      "sub": "Last Date Extended",
-      "url": "https://www.rrbapply.gov.in/assets/forms/corrigendum1_07_2026_NTPC_UG.pdf",
-      "details": "Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "a925c7d639be",
-      "title": "UP Police Constable Score Card 2026 Out",
-      "sub": "Result",
-      "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
-      "details": "The UP Police Constable Normalized Marks 2026 represent candidates' written examination scores after application of the Board's normalization procedure.",
       "rushScore": 125,
       "active": true
     }
