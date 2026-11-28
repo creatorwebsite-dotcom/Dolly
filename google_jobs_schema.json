@@ -62,6 +62,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "AP DSC 2721 Teacher Online Form 2026",
+      "description": "<p>Eligible candidates can submit applications at tet2dsc.apcfss.in from 11 to 30 November 2026 . The recruitment examinations are scheduled from 20 December 2026 to 13 January 2027 . Check the notification-wise vacancy breakup, age limits, fee, selection rules, district-wise openings and official syllabus below.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "74e1f017f0ce"
+      },
+      "datePosted": "2026-11-30",
+      "validThrough": "2026-12-28T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AP DSC 2721 Teacher",
+        "sameAs": "https://tet2dsc.apcfss.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 2721
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "ONGC Apprentice Online Form 2026 (3047 Vacancy)",
       "description": "<p>Update: ONGC has extended the last date for submission of applications under NAPS to 29 November 2026 due to technical reasons (Corrigendum No. ONGC/APPR/1/2026/Cor-1 dated 19 November 2026). The last date for applications under NATS is unchanged at 20 November 2026.</p>",
       "identifier": {
@@ -1455,6 +1486,37 @@
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
+      "title": "TCIL Various Posts Recruitment 2026 (27 Vacancy)",
+      "description": "<p>The official notification does not specify the number of vacancies, the age limit or the application fee.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "SARKARI NAUKAR BANEGA",
+        "value": "0e6348e7193b"
+      },
+      "datePosted": "2026-11-26",
+      "validThrough": "2026-12-31T23:59:59+05:30",
+      "employmentType": "FULL_TIME",
+      "directApply": true,
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "TCIL Various Posts",
+        "sameAs": "https://tcil.net.in/"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "All India / Central",
+          "addressRegion": "All India / Central",
+          "addressCountry": "IN"
+        }
+      },
+      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
+      "totalJobOpenings": 27
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
       "title": "Women’s Development Bank: Recruitment...",
       "description": "<p>Official notification for Women’s Development Bank: Recruitment.... Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
       "identifier": {
@@ -2266,67 +2328,6 @@
         }
       },
       "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Police recruitment 2026: How much will police cadet officers earn monthly? Read the whole story here: https://t.co/hwgYyEX7CC",
-      "description": "<p>Official notification for Police recruitment 2026: How much will police cadet officers earn monthly? Read the whole story here: https://t.co/hwgYyEX7CC. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "8b6beebbe06e"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-12-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Police Recruitment Board",
-        "sameAs": "https://licindia.in"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "All India / Central",
-          "addressRegion": "All India / Central",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UPSSSC JE Online Form (1156 Posts)",
-      "description": "<p>Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet</p>",
-      "identifier": {
-        "@type": "PropertyValue",
-        "name": "SARKARI NAUKAR BANEGA",
-        "value": "3d3fde92a0d1"
-      },
-      "datePosted": "2026-11-25",
-      "validThrough": "2026-11-25T23:59:59+05:30",
-      "employmentType": "FULL_TIME",
-      "directApply": true,
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UPSSSC JE",
-        "sameAs": "http://upsssc.gov.in/Default.aspx"
-      },
-      "jobLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Uttar Pradesh",
-          "addressRegion": "Uttar Pradesh",
-          "addressCountry": "IN"
-        }
-      },
-      "keywords": "sarkari naukri, sarkari result, sarkari naukar banega, free job alert, govt job 2026, recruitment, online form",
-      "totalJobOpenings": 1156
     }
   ]
 }
