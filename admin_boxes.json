@@ -1,18 +1,18 @@
 {
   "portal_brand": "SARKARI NAUKAR BANEGA",
-  "updated_at": "28 Nov 2026, 03:17:45 PM IST",
-  "last_2hr_sync_ist": "28 Nov 2026, 03:17:45 PM IST",
-  "last_2hr_sync_iso": "2026-11-28T15:17:33+05:30",
+  "updated_at": "28 Nov 2026, 11:32:00 PM IST",
+  "last_2hr_sync_ist": "28 Nov 2026, 11:32:00 PM IST",
+  "last_2hr_sync_iso": "2026-11-28T23:31:02+05:30",
   "window_days": 15,
-  "pruned_posts_last_run": 6,
-  "unseen_auto_published_count": 1158,
+  "pruned_posts_last_run": 107,
+  "unseen_auto_published_count": 1084,
   "category_counts": {
-    "latest_jobs": 295,
-    "results": 197,
-    "admit_cards": 312,
-    "answer_keys": 135,
-    "syllabus": 94,
-    "admissions": 125
+    "latest_jobs": 273,
+    "results": 198,
+    "admit_cards": 303,
+    "answer_keys": 123,
+    "syllabus": 86,
+    "admissions": 101
   },
   "trending_top_6": [
     {
@@ -43,6 +43,15 @@
       "active": true
     },
     {
+      "id": "7b415813e388",
+      "title": "IBPS RRB 15th Officer Assistant Pre Admit Card 2026",
+      "sub": "Admit Card",
+      "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+      "details": "IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "68c2721048ef",
       "title": "IBPS Clerk Prelims Result 2026",
       "sub": "Result",
@@ -58,15 +67,6 @@
       "url": "https://ssc.gov.in",
       "details": "Official notification for TNUSRB Constable and SI Notification 2026-27 Out Soon For 34000 Vacancies, Check Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "e6c32d210a81",
-      "title": "Allahabad High Court quashes result of UPPSC PCS-2025 Preliminary Examination | 27 November 2026",
-      "sub": "Today Last Date",
-      "url": "https://uppsc.up.nic.in",
-      "details": "Official notification for Allahabad High Court quashes result of UPPSC PCS-2025 Preliminary Examination | 27 November 2026. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 122,
       "active": true
     }
   ],
